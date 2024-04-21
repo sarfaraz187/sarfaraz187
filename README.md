@@ -15,7 +15,6 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
-
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -49,6 +48,7 @@
 <h3>Testing</h3>
 <p>
   <img alt="playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=google-playwright&logoColor=white" />
+  <img alt="vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 </p>
 
 <h3>Where to find me</h3>
