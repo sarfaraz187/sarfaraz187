@@ -58,4 +58,4 @@
 
 <h3>My Github Stats</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sarfaraz187&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarfaraz187&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sarfaraz187&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)![](https://raw.githubusercontent.com/sarfaraz187/github-stats-transparent/output/generated/languages.svg)
