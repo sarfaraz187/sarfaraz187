@@ -5,8 +5,7 @@
 <ul>
   <li>🔭 I'm currently learning Next.js</li>
   <li>💬 Ask me about Vue, React and Javascript</li>
-  <li>📫 How to reach me : [Sarfaraz](mailto:sarfarazmohammed187@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-  </li>
+  <li>📧 How to reach me: itgoyo@gmail.com</li>
   <li>⚡ Fun fact: Big Fan of the ⚡ emoji</li>
 </ul>
 
