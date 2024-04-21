@@ -1,4 +1,4 @@
-<h1 align="center">😃 Hey! 👋 I'm Sarfaraz Nice to see you.</h1>
+<h1 align="center">😃 Hey! 👋 I'm Sarfaraz, Nice to see you.</h1>
 
 <h4>Welcome to my page! I'm a Fullstack developer from <img src="./icons/india.png" width="14"/> <b>Chennai, India</b>, currently living in  <img src="./icons/germany.png" width="14"/> <b>Bavaria, Germany</b>. </p>
 <h2>👨‍💻 Things i code with</h2>
@@ -55,3 +55,5 @@
 <p><a href="https://github.com/sarfaraz187" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="http://www.linkedin.com/in/mohammed-sarfaraz-g" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </p>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
