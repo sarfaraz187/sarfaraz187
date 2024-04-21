@@ -58,4 +58,5 @@
 
 <h3>My Stats</h3>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sarfaraz187&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)![](https://raw.githubusercontent.com/sarfaraz187/github-stats-transparent/output/generated/languages.svg)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sarfaraz187&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://raw.githubusercontent.com/sarfaraz187/github-stats-transparent/output/generated/languages.svg)
