@@ -5,7 +5,7 @@
 <ul>
   <li>🔭 I'm currently learning Next.js</li>
   <li>💬 Ask me about Vue, React and Javascript</li>
-  <li>📧 How to reach me: <a href="mailto:sarfarazmohammed187@gmail.com">itgoyo@gmail.com</a></li>
+  <li>📧 How to reach me: <a href="mailto:sarfarazmohammed187@gmail.com">Email me!</a></li>
   <!-- <li>⚡ Fun fact: Big Fan of the ⚡ emoji</li> -->
 </ul>
 
