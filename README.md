@@ -2,7 +2,7 @@
 
 <h4>Welcome to my page! I'm a Fullstack developer from <img src="./icons/india.png" width="14"/> <b>Chennai, India</b>, currently living in  <img src="./icons/germany.png" width="14"/> <b>Bavaria, Germany</b>. </p>
 
-<ul>I'm currently learning Next.js</ul>
+<ol>I'm currently learning Next.js</ol>
 <h2>👨‍💻 Things i code with</h2>
 
 <h3>Frontend</h3>
@@ -61,3 +61,5 @@
 <h3>My Github Stats</h3>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sarfaraz187&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)![](https://raw.githubusercontent.com/sarfaraz187/github-stats-transparent/output/generated/languages.svg)
+
+![](https://komarev.com/ghpvc/?username=sarfaraz187&color=green)
