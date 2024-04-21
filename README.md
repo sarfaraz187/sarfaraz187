@@ -1,6 +1,8 @@
 <h1 align="center">😃 Hey! 👋 I'm Sarfaraz, Nice to see you.</h1>
 
 <h4>Welcome to my page! I'm a Fullstack developer from <img src="./icons/india.png" width="14"/> <b>Chennai, India</b>, currently living in  <img src="./icons/germany.png" width="14"/> <b>Bavaria, Germany</b>. </p>
+
+<ul>I'm currently learning Next.js</ul>
 <h2>👨‍💻 Things i code with</h2>
 
 <h3>Frontend</h3>
