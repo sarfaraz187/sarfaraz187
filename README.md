@@ -2,11 +2,13 @@
 
 <h4>Welcome to my page! I'm a Fullstack developer from <img src="./icons/india.png" width="14"/> <b>Chennai, India</b>, currently living in  <img src="./icons/germany.png" width="14"/> <b>Bavaria, Germany</b>. </p>
 
-<ol>🔭 I'm currently learning Next.js</ol>
-<ol>💬 Ask me about Vue, React and Javascript</ol>
-<ol>📫 How to reach me : [Sarfaraz](mailto:sarfarazmohammed187@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-</ol>
-<ol>⚡ Fun fact: Big Fan of the ⚡ emoji</ol>
+<ul>
+  <li>🔭 I'm currently learning Next.js</li>
+  <li>💬 Ask me about Vue, React and Javascript</li>
+  <li>📫 How to reach me : [Sarfaraz](mailto:sarfarazmohammed187@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+  </li>
+  <li>⚡ Fun fact: Big Fan of the ⚡ emoji</li>
+</ul>
 
 <h2>👨‍💻 Things i code with</h2>
 
